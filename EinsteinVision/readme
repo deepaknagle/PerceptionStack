@@ -1,7 +1,7 @@
 RBE 549: Computer Vision
 Team members: Deepak Nagle, Irakli Gregolia
-Project 3: Einstein Vision - Checkpoint 1 submission: Using one late day
- 
+Perception Stack: Einstein Vision 
+
 Networks utilized:
 1. Object detection (cars, traffic signs, traffic lights, speed limit sign):
 We used this one for object detection: https://github.com/xiaogangLi/tensorflow-MobilenetV1-SSD
