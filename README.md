@@ -1,5 +1,7 @@
 RBE 549: Computer Vision
+
 Team members: Deepak Nagle, Irakli Gregolia
+
 Project 3: Perception Stack: Einstein Vision
  
 Networks utilized:
