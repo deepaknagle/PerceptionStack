@@ -29,13 +29,13 @@ projected speed limit sign.
 
 Thank you!
  
-[2] Lane Detection: https://github.com/IrohXu/lanenet-lane-detection-pytorch
-[3] Monocular Depth Estimation: https://github.com/isl-org/MiDaS
-[4] Object Detection: Cars, Trucks, Traffic Lights, Road Signs:
+[1] Lane Detection: https://github.com/IrohXu/lanenet-lane-detection-pytorch
+[2] Monocular Depth Estimation: https://github.com/isl-org/MiDaS
+[3] Object Detection: Cars, Trucks, Traffic Lights, Road Signs:
 https://github.com/xiaogangLi/tensorflow-MobilenetV1-SSD
-[5] Object Detection: Cars, Trucks, Traffic Lights, Road Signs:
+[4] Object Detection: Cars, Trucks, Traffic Lights, Road Signs:
 https://github.com/WongKinYiu/yolov7
-[6] Object Detection: Traffic Lights: https://github.com/sovit-123/TrafficLight-Detection-Using-YOLOv3
-[7] Object Detection: Road Signs: https://github.com/Anantmishra1729/Road-sign-detection
-[8] YOLO 3-D bounding boxes: https://github.com/ruhyadi/YOLO3D
-[9] Pedestrian keypoint detection: https://github.com/ZheC/Realtime MultiPerson Pose Estimation
+[5] Object Detection: Traffic Lights: https://github.com/sovit-123/TrafficLight-Detection-Using-YOLOv3
+[6] Object Detection: Road Signs: https://github.com/Anantmishra1729/Road-sign-detection
+[7] YOLO 3-D bounding boxes: https://github.com/ruhyadi/YOLO3D
+[8] Pedestrian keypoint detection: https://github.com/ZheC/Realtime MultiPerson Pose Estimation
